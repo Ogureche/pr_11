@@ -1,16 +1,7 @@
-# pr_11
+Практическая работа №11 Михальков Юрий Виленович ЭФБО-02-22
+![image](https://github.com/user-attachments/assets/09ae8e5f-3a04-44b3-a1d7-e6ad018b167b)
+![image](https://github.com/user-attachments/assets/73bd2f45-922a-4cde-ab9c-8454ae5a0286)
 
-A new Flutter project.
 
-## Getting Started
+https://github.com/user-attachments/assets/c064bbcb-bf4a-411f-b40a-646adeff87cf
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
